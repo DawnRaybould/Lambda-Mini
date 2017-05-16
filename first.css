@@ -1,0 +1,30 @@
+
+
+.red {
+	background-color: red;
+	height :150px;
+	max-width;
+}
+
+.blue {
+	background-color: blue;
+	height: 900px;
+	width: 945px;
+	border-color: yellow;
+	border-right: 150px solid yellow;
+	border-left: 150px solid yellow;
+}
+.green{
+	background-color: green;
+	height: 70px;
+	width: 945px;
+	border-right: 150px solid yellow;
+	border-left: 150px solid yellow;
+	}
+
+
+
+
+
+
+
