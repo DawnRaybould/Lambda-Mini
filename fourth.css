@@ -34,3 +34,7 @@ h4 {
 hr {
 	margin-bottom: 50px;
 }
+
+.post-heading > h1 {
+	color: white;
+}
