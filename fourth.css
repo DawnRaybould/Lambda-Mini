@@ -1,0 +1,35 @@
+
+
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+  }
+
+.header_bg {
+	background: url('http://blackrockdigital.github.io/startbootstrap-clean-blog/img/post-bg.jpg') repeat-x scroll 0 0;
+	color: white;
+	
+}
+
+.navbar .nav > li > a {
+    color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+ }
+.figure {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+h4 {
+	margin-top: 20px;
+}
+ p {
+ 	font-family: open sans
+
+ }
+hr {
+	margin-bottom: 50px;
+}
